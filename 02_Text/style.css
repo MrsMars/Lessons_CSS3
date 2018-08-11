@@ -1,0 +1,28 @@
+body{
+    font-family: "PT Sans", Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.big{
+    font-size: 1.3em;        /* increase font in 1.3 times */ 
+    font-size: 80%;
+    
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-indent: 30%;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+.revers{
+    text-align: center;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: -20px;
+}
+.shadow{
+    background: #ccc;
+    text-shadow: 0 1px 0 #eee, 1px 1px 1px #000;       /* x, y, blur,color, another shadow*/
+}

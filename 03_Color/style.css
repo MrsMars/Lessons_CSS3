@@ -1,0 +1,5 @@
+body{
+    background-color: rgb(120,0,120);
+    color: rgba(255,255,255,.5);    /* opacity. 0 - full opacity*/
+    /* or - color: #fff; */
+}
