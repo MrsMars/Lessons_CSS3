@@ -1,0 +1,16 @@
+.container{
+    widows: 700px;
+    height: 400px;
+    border: 3px solid #999;
+    margin: 20px;
+    
+    background-image: url(https://cdn3.iconfinder.com/data/icons/cat-force/256/cat_paper.png), url(https://cdn3.iconfinder.com/data/icons/cat-force/256/cat_cart.png), url(https://cdn3.iconfinder.com/data/icons/cat-force/256/cat_rascal.png);
+    
+    background-color: deepskyblue;
+    
+    background-repeat: no-repeat;
+    background-position: top center, right bottom, left top;        /* x , y */
+    
+    background-size: 20%, 11%, 11%;        /* size of picture */
+    /*background-size: contain;    - full screen */
+}
